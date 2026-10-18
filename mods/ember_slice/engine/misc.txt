@@ -1,0 +1,7 @@
+APPEND
+window_title=La Cripta della Brace — vertical slice
+save_prefix=ember_slice
+save_onload=true
+save_onexit=true
+save_pos_onexit=true
+save_anywhere=true

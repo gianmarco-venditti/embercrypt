@@ -1,0 +1,12 @@
+# Reuse the upstream low-level melee creature; only the custom category spawns it here.
+INCLUDE enemies/lvl1_skeleton_cracked.txt
+name=Ossa della cripta
+level=1
+categories=ember_melee
+rarity=common
+stat=hp,28
+stat=dmg_melee_min,5
+stat=dmg_melee_max,8
+threat_range=7,12
+xp=10
+loot=2,25,1

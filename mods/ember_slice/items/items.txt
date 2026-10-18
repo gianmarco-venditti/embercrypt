@@ -1,0 +1,11 @@
+APPEND
+# Custom prototype reward, using upstream dagger art and animation.
+[item]
+id=5000
+name=Lama della Brace
+INCLUDE items/base/weapons/melee/dagger.txt
+level=1
+quality=normal
+price=100
+dmg=melee,14,16
+requires_stat=physical,2

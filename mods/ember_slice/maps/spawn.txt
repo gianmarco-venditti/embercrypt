@@ -1,0 +1,11 @@
+# New games enter our campaign instead of the Empyrean Campaign.
+[header]
+width=1
+height=1
+hero_pos=0,0
+
+[event]
+type=event
+location=0,0,1,1
+activate=on_load
+intermap=maps/ember_crypt.txt,6,24

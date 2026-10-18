@@ -1,0 +1,12 @@
+INCLUDE enemies/lvl2_skeleton_archer.txt
+name=Sentinella della cripta
+level=1
+categories=ember_archer
+rarity=common
+stat=hp,24
+stat=dmg_ranged_min,5
+stat=dmg_ranged_max,8
+stat=dmg_melee_min,5
+stat=dmg_melee_max,8
+threat_range=7,12
+xp=15

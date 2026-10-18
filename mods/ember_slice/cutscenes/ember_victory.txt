@@ -1,0 +1,14 @@
+caption_margins=12,20
+caption_background=0,0,0,220
+
+[scene]
+caption=LA BRACE E SALVA
+pause=1s
+
+[scene]
+caption=Il Guardiano e caduto. Hai riportato la luce fuori dalla cripta.
+pause=1s
+
+[scene]
+caption=Prima avventura completata. Premi per continuare, poi Esc per tornare al menu. Per riprovare scegli una nuova partita.
+pause=-1

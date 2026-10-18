@@ -1,0 +1,11 @@
+INCLUDE enemies/lvl2_skeleton.txt
+name=Il Guardiano della Brace
+level=1
+categories=ember_guardian
+rarity=common
+stat=hp,120
+stat=dmg_melee_min,9
+stat=dmg_melee_max,13
+threat_range=7,12
+xp=40
+defeat_status=ember_guardian_dead

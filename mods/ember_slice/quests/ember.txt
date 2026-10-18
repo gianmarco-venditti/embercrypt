@@ -1,0 +1,16 @@
+name=La Cripta della Brace
+complete_status=ember_finished
+
+[quest]
+requires_status=ember_started
+requires_not_status=ember_guardian_dead
+quest_text=Attraversa la cripta e sconfiggi il Guardiano nella sala in fondo. Le pozioni sono nella barra in basso. Cerca il forziere lungo il percorso.
+
+[quest]
+requires_status=ember_guardian_dead
+requires_not_status=ember_finished
+quest_text=Il Guardiano e caduto. Raggiungi l'uscita in fondo alla sua sala e porta la Brace all'aperto.
+
+[quest]
+requires_status=ember_finished
+quest_text=La Brace e salva. Hai completato la prima avventura.

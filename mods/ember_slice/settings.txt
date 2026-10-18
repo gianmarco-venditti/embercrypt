@@ -1,0 +1,5 @@
+description=La Cripta della Brace — prima avventura sperimentale
+version=0.1.0
+requires=fantasycore:1.15,empyrean_campaign:1.15
+game=flare-game
+engine_version_min=1.15
